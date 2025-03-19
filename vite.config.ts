@@ -15,6 +15,12 @@ export default defineConfig({
       "@event-calendar/resource-timeline": path.resolve(
         "/Users/jakeorr/code/calendar/packages/resource-timeline"
       ),
+      "@event-calendar/interaction": path.resolve(
+        "/Users/jakeorr/code/calendar/packages/interaction"
+      ),
+      "@event-calendar/resource-time-grid": path.resolve(
+        "/Users/jakeorr/code/calendar/packages/resource-time-grid"
+      ),
     },
   },
 });

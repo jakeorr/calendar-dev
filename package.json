@@ -24,6 +24,8 @@
 		"vite": "^6.0.0"
 	},
 	"dependencies": {
+		"@event-calendar/interaction": "^3.10.0",
+		"@event-calendar/resource-time-grid": "^3.10.0",
 		"@event-calendar/resource-timeline": "^3.10.0"
 	}
 }
